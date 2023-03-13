@@ -1,7 +1,8 @@
 # DHT22
 Exposicion del componente
 
-<p align = "center"> <img src = https://www.geekfactory.mx/wp-content/uploads/2014/04/dht22-sensor-de-temperatura-y-humedad-relativa.jpg) width = 200 height = 200></p>
+# Imagen subdirectorio
+![](imagenes/DHT22.png)
 
 ##### Sensor digital de humedad y temperatura.
 
