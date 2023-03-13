@@ -1,3 +1,5 @@
+![Portada A1U2_page-0001](https://user-images.githubusercontent.com/124212032/224834301-c1836756-bda0-41b4-a031-e47e558be247.jpg)
+
 # DHT22
 Exposicion del componente
 
