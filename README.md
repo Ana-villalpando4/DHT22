@@ -2,7 +2,7 @@
 Exposicion del componente
 
 # Imagen subdirectorio
-![](imagenes/DHT22.png)
+![](imagenes/DHT22.jpg)
 
 ##### Sensor digital de humedad y temperatura.
 
