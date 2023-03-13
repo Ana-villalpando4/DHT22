@@ -35,6 +35,9 @@ Es recomendado utilizar una resistencia de 4.7K Ohm en modo Pull-up, entre el pi
 ### Precio
 ###### Ronda entre 80 y 190 pesos mexicanos 
 
+### Simulador
+https://wokwi.com/projects/358671401024094209
+
 ## Bibliografia
 * https://www.todomicro.com.ar/arduino/225-sensor-de-humedad-y-temperatura-dht22-arduino.html#:~:text=El%20DHT22%20es%20un%20sensor,en%20el%20pin%20de%20datos
 * https://listado.mercadolibre.com.mx/sensor-de-temperatura-dht22
