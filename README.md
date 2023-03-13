@@ -1,8 +1,7 @@
 # DHT22
 Exposicion del componente
 
-# Imagen subdirectorio
-![](imagenes/DHT22.jpg)
+![download](https://user-images.githubusercontent.com/124212032/224832891-0496af79-1fe6-4fcc-b9f1-02ca9c6fd026.jpg)
 
 ##### Sensor digital de humedad y temperatura.
 
