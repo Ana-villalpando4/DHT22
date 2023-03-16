@@ -57,21 +57,49 @@ https://wokwi.com/projects/358671401024094209
 
 ```Python
 
+#Importación de librerias 
+
+#Importación de libreria DHT
 import dht
+
+#Importación de libreria para utlizacion de la máquina
+#o Raspberry Pi 
 import machine
+
+#Importación de libreria para utilizar funciones de
+#tiempo
 import time
 
+#Declaración global de variables de
+#Temperatura y Humedad
 global temp
 global hum
 
+#Declarar el sensor y especificar cual vamos a utilizar
+#ya que existe el DHT11 
+
+#En este caso utilizamos el pin #4 como salida
 d = dht.DHT22(machine.Pin(4))
 
+#Bucle para ir midiendo la temperatura cada 2 segundos
 while(True):
+
+    #Hacer pausas de 2 segundos
     time.sleep(2)
+
+    #Metodo para medir
     d.measure()
+
+    #Temperatura
     temp = d.temperature()
+
+    #Humedad
     hum = d.humidity()
+
+    #Impresión de temperatura 
     print(f"Temperatura: {temp}")
+
+    #Impresión de Humedad
     print(f"Humedad: {hum}")
     
 ```
