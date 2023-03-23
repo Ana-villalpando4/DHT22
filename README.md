@@ -41,7 +41,7 @@ Es recomendado utilizar una resistencia de 4.7K Ohm en modo Pull-up, entre el pi
 ###### Ronda entre 80 y 190 pesos mexicanos 
 
 ### Simulador
-https://wokwi.com/projects/358671401024094209
+[Link de Simulación](https://wokwi.com/projects/358671401024094209)
 
 
 #### Circuito 🔌⚡
